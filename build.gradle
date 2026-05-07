@@ -1,5 +1,6 @@
 plugins {
     id 'com.android.library' version '8.0.1'
+    id 'maven-publish'
 }
 
 android {
@@ -36,4 +37,18 @@ android {
 }
 
 dependencies {
+}
+
+afterEvaluate {
+    publishing {
+        publications {
+            release(MavenPublication) {
+                from components.release
+
+                groupId = 'com.github.NezukaStudio'
+                artifactId = 'AexonCompat'
+                version = '1.0.0'
+            }
+        }
+    }
 }

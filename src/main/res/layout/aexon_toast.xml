@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.aexon.toast.AexonToastOutline
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:id="@+id/container"
+	android:paddingLeft="15dp"
+	android:paddingTop="12dp"
+	android:paddingRight="15dp"
+	android:paddingBottom="12dp"
+	android:background="@color/colorSurfaceContainer"
+	android:orientation="vertical">
+	<TextView
+		android:id="@+id/title"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Aexon"
+		android:textSize="16sp"
+		android:textColor="@color/colorPrimary"
+		android:singleLine="true"
+		android:focusable="false" />
+	<TextView
+		android:id="@+id/message"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="aexon game booster "
+		android:textSize="12sp"
+		android:textColor="@color/colorSurfaceVariant"
+		android:singleLine="true"
+		android:focusable="false" />
+</com.aexon.toast.AexonToastOutline>

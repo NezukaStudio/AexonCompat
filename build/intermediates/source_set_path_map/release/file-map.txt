@@ -1,0 +1,7 @@
+com.aexon-pngs-0 /storage/emulated/0/Bahan/AexonCompat/build/generated/res/pngs/release
+com.aexon-resValues-1 /storage/emulated/0/Bahan/AexonCompat/build/generated/res/resValues/release
+com.aexon-mergeReleaseResources-2 /storage/emulated/0/Bahan/AexonCompat/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.aexon-mergeReleaseResources-3 /storage/emulated/0/Bahan/AexonCompat/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.aexon-merged_res-4 /storage/emulated/0/Bahan/AexonCompat/build/intermediates/merged_res/release
+com.aexon-main-5 /storage/emulated/0/Bahan/AexonCompat/src/main/res
+com.aexon-release-6 /storage/emulated/0/Bahan/AexonCompat/src/release/res
